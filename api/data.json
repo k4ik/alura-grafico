@@ -1,0 +1,197 @@
+{
+    "redes_sociais": [
+      {
+        "nome": "Facebook",
+        "usuarios_ativos": 2.99e9
+      },
+      {
+        "nome": "YouTube",
+        "usuarios_ativos": 2.53e9
+      },
+      {
+        "nome": "WhatsApp",
+        "usuarios_ativos": 2.24e9
+      },
+      {
+        "nome": "Instagram",
+        "usuarios_ativos": 2.00e9
+      },
+      {
+        "nome": "WeChat",
+        "usuarios_ativos": 1.263e9
+      },
+      {
+        "nome": "TikTok",
+        "usuarios_ativos": 1.051e9
+      },
+      {
+        "nome": "Facebook Messenger",
+        "usuarios_ativos": 931e6
+      },
+      {
+        "nome": "Douyin ",
+        "usuarios_ativos": 945e6
+      },
+      {
+        "nome": "Snapchat",
+        "usuarios_ativos": 750e6
+      },
+      {
+        "nome": "Telegram",
+        "usuarios_ativos": 700e6
+      },
+      {
+        "nome": "Twitter",
+        "usuarios_ativos": 556e6
+      },
+      {
+        "nome": "Pinterest",
+        "usuarios_ativos": 450e6
+      },
+      {
+        "nome": "Reddit",
+        "usuarios_ativos": 430e6
+      },
+      {
+        "nome": "Quora",
+        "usuarios_ativos": 300e6
+      },
+      {
+        "nome": "LinkedIn",
+        "usuarios_ativos": 950e6
+      },
+      {
+        "nome": "Discord",
+        "usuarios_ativos": 300e6
+      },
+      {
+        "nome": "Line",
+        "usuarios_ativos": 170e6
+      },
+      {
+        "nome": "Viber",
+        "usuarios_ativos": 260e6
+      },
+      {
+        "nome": "Kuaishou",
+        "usuarios_ativos": 300e6
+      },
+      {
+        "nome": "QQ",
+        "usuarios_ativos": 560e6
+      },
+      {
+        "nome": "Sina Weibo",
+        "usuarios_ativos": 580e6
+      },
+      {
+        "nome": "Tumblr",
+        "usuarios_ativos": 220e6
+      },
+      {
+        "nome": "Twitch",
+        "usuarios_ativos": 140e6
+      },
+      {
+        "nome": "Baidu Tieba",
+        "usuarios_ativos": 300e6
+      },
+      {
+        "nome": "Signal",
+        "usuarios_ativos": 50e6
+      },
+      {
+        "nome": "Clubhouse",
+        "usuarios_ativos": 10e6
+      },
+      {
+        "nome": "Mixi",
+        "usuarios_ativos": 70e6
+      },
+      {
+        "nome": "VKontakte",
+        "usuarios_ativos": 100e6
+      },
+      {
+        "nome": "XING",
+        "usuarios_ativos": 20e6
+      },
+      {
+        "nome": "Badoo",
+        "usuarios_ativos": 100e6
+      },
+      {
+        "nome": "Meetup",
+        "usuarios_ativos": 60e6
+      },
+      {
+        "nome": "Renren",
+        "usuarios_ativos": 40e6
+      },
+      {
+        "nome": "Flickr",
+        "usuarios_ativos": 90e6
+      },
+      {
+        "nome": "Myspace",
+        "usuarios_ativos": 20e6
+      },
+      {
+        "nome": "Douban",
+        "usuarios_ativos": 300e6
+      },
+      {
+        "nome": "Baidu",
+        "usuarios_ativos": 900e6
+      },
+      {
+        "nome": "Zalo",
+        "usuarios_ativos": 70e6
+      },
+      {
+        "nome": "KakaoTalk",
+        "usuarios_ativos": 130e6
+      },
+      {
+        "nome": "Momo",
+        "usuarios_ativos": 110e6
+      },
+      {
+        "nome": "Steemit",
+        "usuarios_ativos": 100e6
+      },
+      {
+        "nome": "SoundCloud",
+        "usuarios_ativos": 120e6
+      },
+      {
+        "nome": "Medium",
+        "usuarios_ativos": 100e6
+      },
+      {
+        "nome": "Mastodon",
+        "usuarios_ativos": 15e6
+      },
+      {
+        "nome": "Rumble",
+        "usuarios_ativos": 25e6
+      },
+      {
+        "nome": "Odnoklassniki",
+        "usuarios_ativos": 80e6
+      },
+      {
+        "nome": "Mix",
+        "usuarios_ativos": 50e6
+      },
+      {
+        "nome": "Weverse",
+        "usuarios_ativos": 60e6
+      },
+      {
+        "nome": "Peach",
+        "usuarios_ativos": 10e6
+      }
+    ]
+  }
+  
